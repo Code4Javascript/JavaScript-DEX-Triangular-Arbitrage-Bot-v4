@@ -15,7 +15,7 @@ Open the bot's main folder and locate the "config.js" file.
 
 Edit the file using a text editor of your choice.
 
-img src="configsettings.png" >
+<img src="configsettings.png" >
 
 Input your public address and private key, or your wallet seed if you are using a wallet that does not provide access to the private key.
 Set the network by selecting 1 = ETH, 2 = BNB, or 3 = POLYGON.
